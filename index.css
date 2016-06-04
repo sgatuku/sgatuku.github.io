@@ -1,0 +1,69 @@
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	margin-bottom:0px;
+	
+}
+
+.container{
+	margin-left: 100px;
+	margin-bottom: 50px;
+	margin-top:50px;
+	text-align: center;
+	position: fixed;
+
+       
+}
+
+.jumbotron h2{
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-size: 100px;
+	color: #ffffff;
+	
+}
+
+.jumbotron p{
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: #ffffff;
+	}
+
+.info{
+	background-color: #000000;
+	text-align: center;
+	position: fixed;
+
+}
+
+.info p{
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 50px;
+}
+
+
+
+.jumbotron{
+	background-image: url("websitepic2.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+  	color: #ffffff;
+  	height: 700px;
+  	text-shadow: 10px 10px 10px #000000;
+  	margin-bottom: 0px;
+
+}
+
+
+
+.links{
+	margin-top: 50px;
+	position: center;
+}
+
+
+
+
+
+
